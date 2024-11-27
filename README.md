@@ -1,4 +1,17 @@
 # ListadeTarefas
+#Objetivo:ajudar as pessoas a se organizerem
+Cronograma e Desenvlovimento:
+Primeriro Dia:
+Configuração do repositório.
+Estrutura inicial do projeto
+Segundo Dia:
+Implementar funcionalidades básicas: adicionar, listar, excluir tarefas.
+Criar a interface visua
+Terceiro Dia:
+Adicionar a marcação de tarefas concluídas
+Quarto Dia:
+Revisar,testar e realizar ajustes
+
 
 <!DOCTYPE html>
 <html lang="en">
